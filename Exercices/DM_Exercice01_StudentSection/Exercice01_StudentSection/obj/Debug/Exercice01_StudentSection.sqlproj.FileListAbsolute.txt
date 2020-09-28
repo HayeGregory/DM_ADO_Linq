@@ -1,0 +1,6 @@
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\Exercice01_StudentSection\bin\Debug\Exercice01_StudentSection.dacpac
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\Exercice01_StudentSection\bin\Debug\Exercice01_StudentSection.dll
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\Exercice01_StudentSection\bin\Debug\Exercice01_StudentSection.pdb
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\Exercice01_StudentSection\obj\Debug\Exercice01_StudentSection.dll
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\Exercice01_StudentSection\obj\Debug\Exercice01_StudentSection.pdb
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\Exercice01_StudentSection\obj\Debug\Exercice01_StudentSection.sqlprojAssemblyReference.cache
