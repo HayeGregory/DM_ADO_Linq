@@ -1,0 +1,26 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Section] (Table)
+       [dbo].[Student] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Student] (Contrainte par défaut)
+       [dbo].[FK_Student_Section] (Clé étrangère)
+       [dbo].[CK_Student_YearResult_0_20] (Contrainte de validation)
+       [dbo].[CK_Student_BirthDate_1930] (Contrainte de validation)
+       [dbo].[OnDeleteStudent] (Déclencheur)
+       [dbo].[V_Student] (Vue)
+       [dbo].[AddSection] (Procédure)
+       [dbo].[AddStudent] (Procédure)
+       [dbo].[DeleteStudent] (Procédure)
+       [dbo].[UpdateStudent] (Procédure)
+
+** Actions de support

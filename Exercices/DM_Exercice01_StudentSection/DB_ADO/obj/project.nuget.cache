@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KoZzZuyCWnUW4UrZ2M641Oh+TLIyKgSbN5ZoZHzehWAHN1GCFacxOF9uTR+RKHzBGOZ9Kb4/Aa/JWhkSU6fmDA==",
+  "success": true,
+  "projectFilePath": "E:\\_Cursus\\_Dev_Mobile_\\_work\\.Net\\ADO_Linq\\Exercices\\DM_Exercice01_StudentSection\\DB_ADO\\DB_ADO.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyutah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kyutah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\bin\Debug\UseADO.dacpac
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\bin\Debug\UseADO.dll
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\bin\Debug\UseADO.pdb
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\obj\Debug\Model.xml
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\obj\Debug\refactor.xml
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\obj\Debug\postdeploy.sql
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\obj\Debug\predeploy.sql
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\obj\Debug\UseADO.dll
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\UseADO\obj\Debug\UseADO.pdb

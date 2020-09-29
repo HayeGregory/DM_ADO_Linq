@@ -1,0 +1,22 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Supprimer
+       [dbo].[CK_Student_YearResult_0_20] (Contrainte de validation)
+     Créer
+       [dbo].[CK_Student_YearResult_0_20] (Contrainte de validation)
+       [dbo].[AddStudent] (Procédure)
+       [dbo].[DeleteStudent] (Procédure)
+       [dbo].[UpdateStudent] (Procédure)
+     Modifier
+       [dbo].[Trigger_Student] (Déclencheur)
+
+** Actions de support

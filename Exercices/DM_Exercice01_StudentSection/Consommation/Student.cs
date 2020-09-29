@@ -14,6 +14,7 @@ namespace Consommation
         public int SectionID { get; set; }
         public bool Active { get; set; }
 
+  
         public Student()
         {
 

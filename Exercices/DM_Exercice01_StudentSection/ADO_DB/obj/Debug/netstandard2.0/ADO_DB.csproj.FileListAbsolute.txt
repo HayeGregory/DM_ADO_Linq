@@ -1,0 +1,9 @@
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\bin\Debug\netstandard2.0\ADO_DB.deps.json
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\bin\Debug\netstandard2.0\ADO_DB.dll
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\obj\Debug\netstandard2.0\ADO_DB.AssemblyInfoInputs.cache
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\obj\Debug\netstandard2.0\ADO_DB.AssemblyInfo.cs
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\bin\Debug\netstandard2.0\ADO_DB.pdb
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\obj\Debug\netstandard2.0\ADO_DB.csprojAssemblyReference.cache
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\obj\Debug\netstandard2.0\ADO_DB.csproj.CoreCompileInputs.cache
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\obj\Debug\netstandard2.0\ADO_DB.dll
+E:\_Cursus\_Dev_Mobile_\_work\.Net\ADO_Linq\Exercices\DM_Exercice01_StudentSection\ADO_DB\obj\Debug\netstandard2.0\ADO_DB.pdb
